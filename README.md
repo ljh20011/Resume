@@ -16,12 +16,13 @@
 ### Experience
 
 - 가톨릭대학교 자연어처리 연구실 학부연구생 (2023.02~2023.11)
-- 
+  
 ### Activities
 
 
 ### Teaching & Advising
 
+- 가톨릭대학교 SOS Class 멘토 (미디어정보프로그래밍, 컴퓨터와프로그래밍) (2023.03~)
 
 ## Projects
 
