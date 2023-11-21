@@ -4,19 +4,19 @@
 <!--
 ![프로필사진]()
 -->
-- 이종혁 (LEE JongHyuk)
+- 이종혁 (JongHyuk Lee)
 - E-mail : <ljh20011@naver.com>
 - GitHub : <https://gitub.com/ljh20011>
 - Blog : <https://onutoa111.tistory.com>
 
 ### Education
 
-- 
-- 
+- 가톨릭대학교 컴퓨터정보공학부 (복수전공 수학과) (2019.03~)
 
 ### Experience
 
-
+- 가톨릭대학교 자연어처리 연구실 학부연구생 (2023.02~2023.11)
+- 
 ### Activities
 
 
@@ -45,3 +45,4 @@
 ## Skills
 
 - `Python` 'C++'
+
