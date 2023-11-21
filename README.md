@@ -4,10 +4,10 @@
 <!--
 ![프로필사진]()
 -->
-- 
-- E-mail : 
-- GitHub : 
-- Blog : <>
+- 이종혁 (LEE JongHyuk)
+- E-mail : <ljh20011@naver.com>
+- GitHub : <https://gitub.com/ljh20011>
+- Blog : <https://onutoa111.tistory.com>
 
 ### Education
 
